@@ -3,8 +3,6 @@ import math
 import random
 import time
 
-import asyncio
-
 def pi_MC(iterations = 100000000):
     count = 0
     for i in range(iterations):

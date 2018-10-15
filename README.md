@@ -14,4 +14,4 @@ sudo apt install python3.6
 
 # usage
 
-Use Python 3,6 ya dingus.
+Use Python 3.6 ya dingus.
